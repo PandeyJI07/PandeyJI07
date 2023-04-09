@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Harshdeep Pandey
 - 👀 I’m interested in Data Science/Data Analyst
-- 🌱 I’m currently learning Natural Language Processing
+- 🌱 I’m currently learning Power BI
 
 <!---
 PandeyJI07/PandeyJI07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
